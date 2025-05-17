@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AnupamSingh
-- 👀 I’m interested in Data Science with Python,tableau public,R for Public Health and Covid19
-- 🌱 I’m currently learning twitter analytics with Python
-- 💞️ I’m looking to collaborate on twitter or Covid, Public Health- social media analytics, NLP based project 
+- 👋 Hi, I’m @AnupamSingh - Independent Data Researcher.
+- 👀 I’m interested in Data Science with Python,tableau public,R for Public Health.
+- 🌱 I’m currently learning twitter analytics with Python. I created twiiter app during Covid 19 for daily updates.
+- 💞️ I’m looking to collaborate on Public Health,Data Research for Business Insights
 - 📫 How to reach me @ twotailsanalytics@gmail.com
 
 <!---
